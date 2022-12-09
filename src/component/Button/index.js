@@ -1,4 +1,4 @@
-import myAlert from "~"
+import myAlert from "../../myAlert.js"
 //import myAlert from "../../myAlert"
 import React from "react"
 
